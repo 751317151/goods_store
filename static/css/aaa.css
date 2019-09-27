@@ -1,0 +1,17 @@
+#info {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+#tta {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	padding: 150px;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
